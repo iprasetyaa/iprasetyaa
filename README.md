@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @iprasetyaa
+- 👀 I’m interested in backend engineer
+- 🌱 I’m currently learning laraevl, docker & clean code
+- 💞️ I’m looking to collaborate with other people who have a spirit learnning
+- 📫 You can send a message to indraprasetya154@gmail.com
+
+<!---
+iprasetyaa/iprasetyaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
