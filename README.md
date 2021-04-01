@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @iprasetyaa
-- 👀 I’m interested in backend engineer
+- 👋 Hi, I’m Indra Prasetya (@iprasetyaa)
+- 👀 I’m interested in backend engineering
 - 🌱 I’m currently learning laravel, docker & clean code
 - 💞️ I’m looking to collaborate with people who need to growth together
 - 📫 Send me a message to indraprasetya154@gmail.com
